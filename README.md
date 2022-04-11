@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+A simple quiz app which contains 5 coding questions and can store highscores 
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
