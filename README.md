@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-An interactive, timed react quiz app that stores a high score leaderboard in local storage.
+An interactive, timed react quiz app and styled with styled components that stores a high score leaderboard in local storage.
 
 
 
